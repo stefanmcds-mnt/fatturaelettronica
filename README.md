@@ -6,7 +6,8 @@
 [![StyleCI][ico-styleci]][link-styleci]
 
 Gestione della Fatturazione Elettronica sia SDICOOP che SDIFTP con SdI Agenzia Entrate
-This is where your description should go. Take a look at [contributing.md](contributing.md) to see a to do list.
+
+Take a look at [contributing.md](contributing.md) to see a to do list.
 
 ## Installation
 
