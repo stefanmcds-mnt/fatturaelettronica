@@ -8,9 +8,9 @@ $PATH =  [
 
 return [
     'SOAP' => __DIR__ . DIRECTORY_SEPARATOR,
-    'CLIENT' =>  $PATH['CERTS'] . 'SDI-01174380053_client.pem',
-    'SERVER' => $PATH['CERTS'] . 'SDI-01174380053_server.pem',
-    'KEYFILE' => $PATH['KEYS'] . 'fatturapa.key',
+    'CLIENT' =>  $PATH['CERTS'] . 'SDI-XXXXXXXXXXXXX_client.pem',
+    'SERVER' => $PATH['CERTS'] . 'SDI-XXXXXXXXXXXXX_server.pem',
+    'KEYFILE' => $PATH['KEYS'] . 'XXXXXXXXXXX.key',
     'EndPointRicevi' => 'https://servizi.fatturapa.it/ricevi_file',
     'EndPointRiceviNotifica' => 'https://servizi.fatturapa.it/ricevi_notifica',
     'CA_AdE' => $PATH['CERTS'] . 'CA_AdE_All.crt',
